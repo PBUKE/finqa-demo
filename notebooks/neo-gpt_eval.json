@@ -1,0 +1,8 @@
+{
+  "model": "gptneo",
+  "exact_match": 0.0,
+  "f1_score": 0.0,
+  "numeric_close": 0.0,
+  "mape": 257.2838,
+  "smape": 91.156
+}
