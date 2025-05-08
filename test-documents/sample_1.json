@@ -1,0 +1,16 @@
+{
+  "table": {
+    "header": ["Year", "Weighted Avg Exercise Price"],
+    "rows": [
+      ["2005", "25.14"],
+      ["2007", "60.94"]
+    ]
+  },
+  "paragraphs": [
+    "The weighted average exercise price per share increased significantly from 2005 to 2007."
+  ],
+  "qa": {
+    "question": "By how much did the weighted average exercise price per share increase from 2005 to 2007?",
+    "answer": "142.4%"
+  }
+}
