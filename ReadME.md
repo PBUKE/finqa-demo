@@ -64,7 +64,10 @@ streamlit run app.py
 ├── requirements.txt              # 📦 Python dependencies
 └── README.md                     # 📘 Project documentation
 
-### 3. 🧩 Future Improvements
+<img width="688" alt="image" src="https://github.com/user-attachments/assets/bb4a02d8-2146-4800-8d46-8addaab8d4ef" />
+
+
+### 4. 🧩 Future Improvements
 🔁 Integrate RAG (Retrieval-Augmented Generation) for better generalization
 
 🧽 Normalize model outputs (%, $, rounding) during evaluation
