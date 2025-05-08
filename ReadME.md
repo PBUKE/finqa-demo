@@ -42,29 +42,6 @@ streamlit run app.py
 
 ### 3. 📁 Project Structure
 
-📁 FinQA LLM App
-├── app.py                         # 🚀 Main Streamlit interface
-├── test_documents/               # 📂 Uploadable external financial documents (.json)
-├── data/                         # 📂 ConvFinQA dataset (train.json, dev.json, etc.)
-├── models/                       # 🧠 Model runners and wrappers
-│   ├── runner_mistral.py         # Mistral inference script
-│   ├── runner_gptneo.py          # GPT-Neo inference script
-│   └── runner_tinyllama.py       # TinyLLaMA inference script
-├── utils/                        # 🔧 Utilities for parsing, formatting, and evaluation
-│   ├── data_utils.py             # Extract tables, context, and questions
-│   ├── formatters.py             # String and number cleaning utilities
-│   └── eval_metrics.py           # Evaluation metric helpers
-├── notebooks/                    # 📓 Preprocessing, training, and evaluation notebooks
-│   ├── data_preparation.ipynb    # Convert train.json to prompt-response
-│   ├── model_evaluation.ipynb    # Visualize accuracy, F1, SMAPE, etc.
-│   └── finetuning_colab          # LoRA/QLoRA training notebook for Colab
-├── results/                      # 📈 Model predictions and logs
-│   ├── dev_eval_mistral.json     # Output predictions for dev set (Mistral)
-│   ├── test_eval_gptneo.json     # Output predictions for test set (GPT-Neo)
-│   └── accuracy_comparison.png   # Evaluation chart comparing models          
-├── requirements.txt              # 📦 Python dependencies
-└── README.md                     # 📘 Project documentation
-
 <img width="688" alt="image" src="https://github.com/user-attachments/assets/bb4a02d8-2146-4800-8d46-8addaab8d4ef" />
 
 
