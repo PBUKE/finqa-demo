@@ -1,0 +1,8 @@
+{
+  "model": "mistral",
+  "exact_match": 0.0,
+  "f1_score": 0.1771,
+  "numeric_close": 0.0,
+  "mape": 1.5347642858020597e+49,
+  "smape": 96.1092
+}
