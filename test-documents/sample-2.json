@@ -1,0 +1,16 @@
+{
+  "table": {
+    "header": ["Year", "Revenue"],
+    "rows": [
+      ["2020", "3400"],
+      ["2021", "4100"]
+    ]
+  },
+  "paragraphs": [
+    "The company reported its revenue for the years 2020 and 2021."
+  ],
+  "qa": {
+    "question": "What was the revenue growth from 2020 to 2021 in percentage?",
+    "answer": "20.6%"
+  }
+}
