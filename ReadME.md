@@ -1,7 +1,6 @@
 # 📊 FinQA LLM App — Financial Question Answering with Fine-Tuned Models
 
-This project demonstrates a Streamlit-based application for answering financial questions using fine-tuned LLMs.  
-It supports uploading real-world financial documents and generates accurate, model-driven answers.
+This project demonstrates a Streamlit-based application for answering financial questions using fine-tuned LLMs.  It supports uploading real-world financial documents and generates accurate, model-driven answers.
 
 ---
 
@@ -31,8 +30,10 @@ It supports uploading real-world financial documents and generates accurate, mod
 
 ### 1. Clone the repository & install dependencies
 
-git clone https://github.com/yourusername/finqa-llm-app.git
-cd finqa-llm-app
+git clone https://github.com/PBUKE/finqa-demo
+
+cd finqa-demo
+
 pip install -r requirements.txt
 
 ### 2. Launch the Streamlit UI
@@ -79,4 +80,4 @@ streamlit run app.py
 👩‍💻 Author
 Pinar Buke
 AI & Data Consultant
-🔗 LinkedIn
+
