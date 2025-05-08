@@ -2,6 +2,8 @@
 
 This project demonstrates a Streamlit-based application for answering financial questions using fine-tuned LLMs.  It supports uploading real-world financial documents and generates accurate, model-driven answers.
 
+<img width="452" alt="image" src="https://github.com/user-attachments/assets/08f76c9c-29b4-4689-a11f-d84d963b4de7" />
+
 ---
 
 ## 🔍 What This App Does
